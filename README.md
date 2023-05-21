@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdriesner)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
